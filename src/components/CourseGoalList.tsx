@@ -2,10 +2,11 @@ import CourseGoal from "./CourseGoal"
 import { type Tgoals as TypeGoal} from "../App"
 
 type Tgoal = {
-  goal: TypeGoal[]
+  goal: TypeGoal[];
+  onDeleteGoal: (id: number) => void;
 }
 
-const CourseGoalList = ({ goal }: Tgoal) => {
+const CourseGoalList = ({ goal, onDeleteGoal }: Tgoal) => {
   return (
 
     <ul>
@@ -13,7 +14,7 @@ const CourseGoalList = ({ goal }: Tgoal) => {
 
           <li key={goal.id}>
 
-            <CourseGoal title={goal.title} >
+            <CourseGoal id={goal.id} title={goal.title} onDelete={onDeleteGoal}>
               <p>{goal.description}</p>
             </CourseGoal >    
 
