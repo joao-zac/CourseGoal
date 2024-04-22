@@ -12,7 +12,7 @@ const NewGoal = ({ onAddGoal }: NewGoalProps) => {
     const summary = useRef<HTMLInputElement>(null)
 
     function handleSubmit(e: FormEvent<HTMLFormElement>) {
-        e.preventDefault;
+        e.preventDefault();
 
         const enteredGoal = goal.current!.value;
         const enterdeSummary = summary.current!.value

@@ -3,7 +3,7 @@
 
 ![Design-site](image.png)
 
-<p align="center"><strong>Status do Projeto:<br></strong> <i>Em andamento</i> 🚧</p>
+<p align="center"><strong>Status do Projeto:<br></strong> <i>Em andamento </i>🚧</p>
 
 </div>
 <p align="center">
@@ -88,13 +88,15 @@ Este site foi construído com:
 
   - [✅] Criar um readme do projeto;
 
-  - [✅] capturar estado e exibir nos Cards de meta;
+  - [✅] Capturar estado e exibir nos Cards de meta;
+
+  - [🚧] Fazer Deploy do projeto;
 
 - **Cards Secundários:**
 
   - [✅] Ter tamanhos variados, de acordo com o tamanho do texto;
 
-  - [✅] efeito ressaltado;
+  - [✅] Efeito ressaltado;
 
 
 ## 8. Desenvolvedor
