@@ -82,19 +82,19 @@ Este site foi construído com:
 
 - **Gerais:**
 
-  - [🚧] O site deve seguir o [design](#3-design) proposto;
+  - [✅] O site deve seguir o [design](#3-design) proposto;
 
-  - [🚧] A aplicação deve ter as funcionalidades de um CRUD;
+  - [✅] A aplicação deve ter as funcionalidades de um CRUD;
 
-  - [✔️] Criar um readme do projeto;
+  - [✅] Criar um readme do projeto;
 
-  - [🚧] capturar estado e exibir nos Cards de meta;
+  - [✅] capturar estado e exibir nos Cards de meta;
 
 - **Cards Secundários:**
 
-  - [🚧] Ter tamanhos variados, de acordo com o tamanho do texto;
+  - [✅] Ter tamanhos variados, de acordo com o tamanho do texto;
 
-  - [🚧] efeito ressaltado;
+  - [✅] efeito ressaltado;
 
 
 ## 8. Desenvolvedor
